@@ -10,7 +10,6 @@ EventX is a modern event management solution designed to simplify event planning
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
